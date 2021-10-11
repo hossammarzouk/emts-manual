@@ -1,0 +1,32 @@
+API documentation
+========================
+
+@EMTS
+--------------
+EMTS
+++++++++++++++++
+
+.. automodule:: @EMTS
+
+.. autoclass:: @EMTS.EMTS
+    :members:
+    :undoc-members:
+
+display
++++++++++++++++++++
+.. autoscript:: @EMTS.display
+
+private.emts_import
+++++++++++++++++++++++++++++
+.. autofunction:: @EMTS.private.emts_import
+
+EMTF
+++++++++++++++++
+
+.. automodule:: @EMTF
+
+.. autoclass:: @EMTF.EMTF
+    :members:
+    :undoc-members:
+
+
